@@ -72,7 +72,9 @@ Fork the Project
 ## Tests
 
 See the open issues for a list of proposed features (and known issues). Testing completed and any known issues include the following:
- Testing is completed in VS Code (Problems Console), Integrated Terminal within VS Code, MySQL database and Chrome Browser. No known issue. Extensive walk through detailed in Google Drive link: [git@github.com:vetty88/Reverse-Engineering.githttps://docs.google.com/document/d/1L0dVASbxpQOHoIsSVYchNaxLxCe5iBD1WCL85LeXJi4/edit# 
+ Testing is completed in VS Code (Problems Console), Integrated Terminal within VS Code, MySQL database and Chrome Browser. No known issues.
+ 
+ Extensive walk through of Tutorial detailed in Google Drive link: https://docs.google.com/document/d/1L0dVASbxpQOHoIsSVYchNaxLxCe5iBD1WCL85LeXJi4/edit# 
  
 ## License
 
