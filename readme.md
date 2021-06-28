@@ -24,35 +24,6 @@
 
   Repo: https://github.com/Vetty88/Reverse-Engineering
 
-Video of app in action (to come)..
-
-
-## Installation
-To get a local copy up and running follow these simple steps.
-
-download repo from Gitlab (or similar), check and update code in VS code, test in terminal. Create databases in MySQL. Test database function in MySQL. Run and test browser functions (including server) in Google Chrome)
-
-Prerequisites
-This is an example of how to list things you need to use the software and how to install them.
-
-Installation-
-  Clone the repo
-    git clone https://github.com/Vetty88/Reverse-Engineering.git
-  Install NPM packages
-    npm install
-    npm inquirer
-    npm audit fix
-  Then open index.js file in console log and run
-    node index.js
-  You will be taken through a series of questions (user prompts) which will then lead to the generation of your new readme.md file!
-
-
-## Usage
-
-This project can be used for undefined. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-For more examples, please refer to the Documentation
-
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Regarding this project I respectfully make the following requests regarding contributions:
